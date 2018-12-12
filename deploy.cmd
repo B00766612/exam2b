@@ -9,7 +9,7 @@
 del D:\home\site\wwwroot\webapps\*.war
 :: ----------------------
 :: need to edit app folder
-cd D:\home\site\repository\B00766612examsample\target\
+cd D:\home\site\repository\B00766612-exam2b\target\
 :: ----------------------
 copy *.war D:\home\site\wwwroot\webapps\*.war
 cd D:\home\site\wwwroot\webapps\
